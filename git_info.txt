@@ -1,0 +1,18 @@
+git init
+ git commit -m 'hello'
+git  add .
+git branch -M main   
+git statuse
+git remote add origin https://github.com/AibekBoss/gitfullt.git
+git pu
+
+ commit names:
+ info - informeition
+ feet - feetere
+ fix fixer bugs
+ deploy - deploing
+ 
+ Example:
+   keyword
+
+
